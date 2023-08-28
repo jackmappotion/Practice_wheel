@@ -1,0 +1,7 @@
+setup.py
+jackmappotion_test.egg-info/PKG-INFO
+jackmappotion_test.egg-info/SOURCES.txt
+jackmappotion_test.egg-info/dependency_links.txt
+jackmappotion_test.egg-info/requires.txt
+jackmappotion_test.egg-info/top_level.txt
+packageTest/package.py
